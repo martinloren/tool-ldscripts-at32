@@ -1,6 +1,6 @@
 {
   "name": "tool-ldscripts-at32",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Linker scripts pack for Artery AT32 platform",
   "keywords": [
     "linker scripts",
